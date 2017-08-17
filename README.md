@@ -1,3 +1,3 @@
-# Snake
+# Python games
 
-It’s snake, python style. Based on the Tkinter GUI.
+Some exercises in python. It’s snake and pong, python style. Based on the Tkinter GUI.
